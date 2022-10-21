@@ -2,14 +2,16 @@
 
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
 <br/>
+<br/>
 I am a full stack software R&D engineer. I not only have rich front-end development experience, including but not limited to mobile terminals, but also familiar with mainstream front-end technology stacks.
+<br/>
 <br/>
 I also have at least 5 years of experience in Java software R&D, involving fields such as technology, finance, e-commerce, etc. I am familiar with the mainstream distributed Java development technology system
 <br/>
-I strive to create memorable experience on the digital canvas. Front-end addicted, fullstack capable, with a strong emphasis on Typescript.
+<br/>
 
 - 🔭 I currently work in a company that provides e-commerce solutions for enterprises with one-stop SASS.
-- 🌱 I am committed to providing a simple and easy to operate process to provide users and enterprises with a perfect use experience.
+- 🌱 I am committed to providing a simple and easy way to operate process to provide users and enterprises with a perfect use experience.
 - 🤝 If there are opportunities in similar industries, I would like to consider such opportunities.
 
 ### Languages and tools: 
@@ -33,11 +35,4 @@ I strive to create memorable experience on the digital canvas. Front-end addicte
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"/>
 </br>
 </br>
-
-### [Resume](https://drive.google.com/file/d/1oQTW0o3phm8o8VRtGc_6vw6vwlDDrdVO/view?usp=sharing)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lavaboy1738&show_icons=true)](https://youtu.be/xvFZjo5PgG0)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavaboy1738&layout=compact)](https://youtu.be/xvFZjo5PgG0)
-
 
